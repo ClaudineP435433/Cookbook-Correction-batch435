@@ -1,5 +1,7 @@
-burger,with cheddar and bacon
-risotto,with mushrooms
-Flan,Caramel Beurre Salé
-Charlotte,Vanille Fraise Framboise
-Cake,Plein d'olives
+"name","description","prep_time","done"
+"burger","with cheddar and bacon"," 33","false"
+"risotto","with mushrooms"," 45","false"
+"Flan","Caramel Beurre Salé"," 34","true"
+"Charlotte","Vanille Fraise Framboise"," 34","false"
+"Cake","Plein d'olives"," 56","false"
+"Chocolate Caramel","Beurre Salé","45","false"
